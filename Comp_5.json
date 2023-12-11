@@ -1,0 +1,30 @@
+
+{
+    "sectionTitle": "Fermentum",
+    "articles": [
+      {
+        "title": "Augue proin vehicula leo",
+        "date": "Friday, 6th April 2045",
+
+        "title_meta": "24",
+        "date_meta": "22"
+      },
+      {
+        "title": "Sapien aliquam urna tristique",
+        "date": "Thursday, 5th April 2045",
+
+        "title_meta": "29",
+        "date_meta": "24"
+      },
+      {
+        "title": "Imperdiet sem pellentesque",
+        "date": "Wednesday, 4th April 2045",
+
+        "title_meta": "26",
+        "date_meta": "25"
+      }
+    ],
+    "viewMoreText": "View More &raquo;",
+    "viewMoreText_meta": "17"
+  }
+  

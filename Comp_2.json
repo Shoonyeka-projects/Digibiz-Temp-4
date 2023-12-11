@@ -1,0 +1,52 @@
+
+{
+  "section1": {
+    "title": "Magna id ullamcorper",
+    "subtitle": "Aenean tempor dictum dignissim curabitur",
+    "content": "Vehicula erat in porttitor pharetra tellus nulla vulputate pharetra aliquam curabitur non sagittis ligula vivamus sodales efficitur arcu imperdiet in&hellip;",
+    "buttonText": "Read More &raquo;",
+
+    "title_meta": "20",
+    "subtitle_meta": "40",
+    "content_meta": "157",
+    "buttonText_meta": "17"
+  },
+  "section2": [
+    {
+      "icon": "fa-database",
+      "heading": "Neque ac pretium",
+      "content": "Donec laoreet hendrerit diam eget tincidunt massa iaculis a mauris in felis&hellip;",
+      "detailsLink": "/details-link-here",
+
+      "heading_meta": "16",
+      "content_meta": "83"
+    },
+    {
+      "icon": "fa-language",
+      "heading": "Tellus vehicula",
+      "content": "Ullamcorper arcu nec facilisis arcu pellentesque dapibus nunc quis pellentesque&hellip;",
+      "detailsLink": "/details-link-here",
+
+      "heading_meta": "15",
+      "content_meta": "87"
+    },
+    {
+      "icon": "fa-lastfm",
+      "heading": "Faucibus mauris",
+      "content": "Porttitor sed sit amet tortor sit amet felis mattis fringilla morbi accumsan blandit&hellip;",
+      "detailsLink": "/details-link-here",
+
+      "heading_meta": "15",
+      "content_meta": "92"
+    },
+    {
+      "icon": "fa-sliders",
+      "heading": "Dictum malesuada",
+      "content": "Pretium morbi vitae augue sit amet nisi mattis vestibulum euismod consequat&hellip;",
+      "detailsLink": "/details-link-here",
+
+      "heading_meta": "16",
+      "content_meta": "83"
+    }
+  ]
+}

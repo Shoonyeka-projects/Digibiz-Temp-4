@@ -1,0 +1,31 @@
+
+{
+    "articles": [
+      {
+        "title": "Maecenas",
+        "imageSrc": "images/demo/320x200.png",
+        "content": "Neque ligula semper iaculis enim nec consectetur id phasellus nec enim dui viverra&hellip;",
+
+        "title_meta": "8",
+        "content_meta": "90"
+      },
+      {
+        "title": "Venenatis",
+        "imageSrc": "images/demo/320x200.png",
+        "content": "Leo tempor lorem tempor aliquet quisque est libero ornare bibendum velit&hellip;",
+
+        "title_meta": "9",
+        "content_meta": "80"
+      },
+      {
+        "title": "Magna volutpat",
+        "content": "134",
+        "buttonText": "Read More &raquo;",
+
+        "title_meta": "14",
+        "content_meta": "80",
+        "buttonText_meta": "17"
+      }
+    ]
+  }
+  

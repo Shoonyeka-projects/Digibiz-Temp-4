@@ -1,0 +1,16 @@
+
+{
+    "wrapperClassName": "coloured",
+    "logos": [
+      { "url": "#", "imageSrc": "images/demo/logo.png" },
+      { "url": "#", "imageSrc": "images/demo/logo.png" },
+      { "url": "#", "imageSrc": "images/demo/logo.png" },
+      { "url": "#", "imageSrc": "images/demo/logo.png" },
+      { "url": "#", "imageSrc": "images/demo/logo.png" }
+    ],
+    "moreButton": {
+      "url": "#",
+      "text": "More &raquo;"
+    }
+  }
+  
